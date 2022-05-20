@@ -28,11 +28,11 @@
 				    <p>Hỗ trợ thanh toán  <img src="http://localhost/myshop/public/images/pay.png" alt="" style="padding-left: 25px;"> </p>
 				    <div class="fi-left pull-left">
 				      <p><small>Tư vẫn miễn phí (24/7)</small></p> 
-				      <strong>1800 3333</strong>
+				      <strong>0394347868</strong>
 				    </div>
 				     <div class="fi-right pull-right">
 				      <p><small>Góp ý, phản ánh(8h00 - 22h00)</small></p>
-				      <strong>1800 3333</strong>
+				      <strong>0394347868</strong>
 				    </div>
 				  </div>
 			</div>
@@ -42,9 +42,9 @@
 				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 					<address>
 					  <strong>    SHOP BÁN HOA</strong><br>
-					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: Liên Chiểu, Đà Nẵng<br>
-					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Điện thoại: 0394073759<br>
-					  Copyright ©2017 - Design by ---
+					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: 124 Hoàng Quốc Việt, Cầu Giấy, Hà Nội<br>
+					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Điện thoại: 0394347868<br>
+					  
 					</address>
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-right">
